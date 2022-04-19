@@ -6,7 +6,7 @@ from  torch.utils.data import Dataset,DataLoader
 from tqdm import tqdm
 
 def read_data(train_or_test,num=None):
-    with open(os.path.join("data",train_or_test + ".txt"),encoding="utf-8") as f:
+    with open(os.path.join("..","data",train_or_test + ".txt"),encoding="utf-8") as f:
         all_data = f.read().split("\n")
 
     texts = []
@@ -93,7 +93,7 @@ def test_file():
         text = text.to(device)
         model(text)
         result.extend(model.pre)
-    with open(os.path.join("data","test_result.txt"),"w",encoding="utf-8") as f:
+    with open(os.path.join("..","data","test_result.txt"),"w",encoding="utf-8") as f:
         f.write("\n".join([str(i) for i in result]))
     test_acc = sum([i == int(j) for i,j in zip(result,test_labels)]) / len(test_labels)
     print(f"test acc = {test_acc * 100:.2f} % ")
