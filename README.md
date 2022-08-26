@@ -33,6 +33,8 @@ NLP LSTM模型古诗生成：NLP系列-基于LSTM生成古诗、藏头诗_哔哩
 代码：https://github.com/shouxieai/BaiduAI_SR_sent
 
 NLP中正则表达式应用：2022年8月27日免费直播，尽情期待！
+
+
 付费直播（录播）课程
 一、基于Bert文本分类 & Bert Embedding嫁接！
 1. NLP发展现状，入门NP算法工程师需要的技能
