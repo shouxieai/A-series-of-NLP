@@ -8,51 +8,61 @@ https://www.bilibili.com/video/BV1j3411t7VM?spm_id_from=333.999.0.0
 代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/NLP_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0_%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B
 
 
-NLP文本分类系列课程：手写AI_NLP系列课程之_文本分类_哔哩哔哩_bilibili
+#### NLP文本分类系列课程：
+https://www.bilibili.com/video/BV1844y1V7sM?p=1&vd_source=3dbbba63d1589615f19db07d062f03b0
 
 代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB
 
 
-NLP实体识别系列课程：手写AI系列课程: 命名实体识别任务! 持续更新! 手写代码!_哔哩哔哩_bilibili
+#### NLP实体识别系列课程：
+https://www.bilibili.com/video/BV1X34y1V7VX?spm_id_from=333.999.0.0
 
 代码：A-series-of-NLP/实体识别 at main · shouxieai/A-series-of-NLP
 
 
-pytorch_BiLSTM 命名实体识别 ：pytorch_BiLSTM 命名实体识别 手写代码_哔哩哔哩_bilibili
+#### pytorch_BiLSTM 命名实体识别 ：
+https://www.bilibili.com/video/BV1h341187RA?spm_id_from=333.999.0.0
 
 代码：https://github.com/shouxieai/nlp-bilstm_crf-ner
 
 
-NLP模型复现之TextCNN：手写AI出品: TextCNN文本分类,逐行代码复现! 可加UP免费答疑!_哔哩哔哩_bilibili
+#### NLP模型复现之TextCNN：手写AI出品: 
+https://www.bilibili.com/video/BV163411w7qg?spm_id_from=333.999.0.0
 
 代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB
 
 
-NLP模型复现之word2vec：word2vec 词向量!手写代码!_哔哩哔哩_bilibili
+#### NLP模型复现之word2vec：
+https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0
 
 代码：https://github.com/shouxieai/word_2_vec
 
 
-NLP模型复现之HMM：NLP-HMM隐马尔可夫+维特比分词，代码+数据+讲解_哔哩哔哩_bilibili
+#### NLP模型复现之HMM：
+https://www.bilibili.com/video/BV1aP4y147gA?spm_id_from=333.999.0.0
 
 代码：https://github.com/shouxieai/nlp-hmm-word-cut
 
 
-Seq2Seq 机器翻译：Seq2Seq 机器翻译, 全程手写代码_哔哩哔哩_bilibili
+#### Seq2Seq 机器翻译：
+https://www.bilibili.com/video/BV1hf4y1u7ez?spm_id_from=333.999.0.0
 
 代码：https://github.com/shouxieai/seq2seq_translation
 
 
-NLP LSTM模型古诗生成：NLP系列-基于LSTM生成古诗、藏头诗_哔哩哔哩_bilibili
+#### NLP LSTM模型古诗生成：
+https://www.bilibili.com/video/BV1sM4y1N7ov?spm_id_from=333.999.0.0
 
 代码：https://github.com/shouxieai/LSTM_poetry_generate
 
 
-百度AI NLP功能快速上手：用百度NLP，做语音识别情感分析，快速开发_哔哩哔哩_bilibili
+#### 百度AI NLP功能快速上手：
+https://www.bilibili.com/video/BV15o4y1Q7wP?spm_id_from=333.999.0.0
 代码：https://github.com/shouxieai/BaiduAI_SR_sent
 
 
-NLP中正则表达式应用：2022年8月27日免费直播，录播地址：https://www.bilibili.com/video/BV13T411F7bM?spm_id_from=333.999.0.0&vd_source=3dbbba63d1589615f19db07d062f03b0
+#### NLP中正则表达式应用：2022年8月27日免费直播，
+录播地址：https://www.bilibili.com/video/BV13T411F7bM?spm_id_from=333.999.0.0&vd_source=3dbbba63d1589615f19db07d062f03b0
 
 代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/2022_8_27_%E6%AD%A3%E5%88%99%E7%9B%B4%E6%92%AD%E4%BB%A3%E7%A0%81_%E8%B5%84%E6%96%99
 
