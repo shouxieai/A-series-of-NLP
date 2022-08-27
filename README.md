@@ -2,7 +2,7 @@
 私聊可免费答疑，还会有项目指导、模型复现等干货直播！
 
 ## 免费系列课程
-### NLP基础及深度学习基础，谁看谁明白：NLP系列课程之基础课程,持续更新!只要会python就够了!逐行带你入门深度学习!_哔哩哔哩_bilibili
+NLP基础及深度学习基础，谁看谁明白：https://www.bilibili.com/video/BV1j3411t7VM?spm_id_from=333.999.0.0
 
 代码：A-series-of-NLP/NLP_深度学习_基础课程 at main · shouxieai/A-series-of-NLP
 
