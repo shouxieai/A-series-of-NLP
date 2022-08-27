@@ -32,7 +32,8 @@ NLP LSTM模型古诗生成：NLP系列-基于LSTM生成古诗、藏头诗_哔哩
 百度AI NLP功能快速上手：用百度NLP，做语音识别情感分析，快速开发_哔哩哔哩_bilibili
 代码：https://github.com/shouxieai/BaiduAI_SR_sent
 
-NLP中正则表达式应用：2022年8月27日免费直播，尽情期待！
+NLP中正则表达式应用：2022年8月27日免费直播，录播地址：https://www.bilibili.com/video/BV13T411F7bM?spm_id_from=333.999.0.0&vd_source=3dbbba63d1589615f19db07d062f03b0
+代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/2022_8_27_%E6%AD%A3%E5%88%99%E7%9B%B4%E6%92%AD%E4%BB%A3%E7%A0%81_%E8%B5%84%E6%96%99
 
 ------------------------------------
 ## 付费直播（录播）课程
