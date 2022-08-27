@@ -3,61 +3,61 @@
 
 ## 免费系列课程
 #### NLP基础及深度学习基础，谁看谁明白：
-https://www.bilibili.com/video/BV1j3411t7VM?spm_id_from=333.999.0.0
+视频：https://www.bilibili.com/video/BV1j3411t7VM?spm_id_from=333.999.0.0
 
 代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/NLP_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0_%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B
 
 
 #### NLP文本分类系列课程：
-https://www.bilibili.com/video/BV1844y1V7sM?p=1&vd_source=3dbbba63d1589615f19db07d062f03b0
+视频：https://www.bilibili.com/video/BV1844y1V7sM?p=1&vd_source=3dbbba63d1589615f19db07d062f03b0
 
 代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB
 
 
 #### NLP实体识别系列课程：
-https://www.bilibili.com/video/BV1X34y1V7VX?spm_id_from=333.999.0.0
+视频：https://www.bilibili.com/video/BV1X34y1V7VX?spm_id_from=333.999.0.0
 
-代码：A-series-of-NLP/实体识别 at main · shouxieai/A-series-of-NLP
+代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB
 
 
 #### pytorch_BiLSTM 命名实体识别 ：
-https://www.bilibili.com/video/BV1h341187RA?spm_id_from=333.999.0.0
+视频：https://www.bilibili.com/video/BV1h341187RA?spm_id_from=333.999.0.0
 
 代码：https://github.com/shouxieai/nlp-bilstm_crf-ner
 
 
 #### NLP模型复现之TextCNN：手写AI出品: 
-https://www.bilibili.com/video/BV163411w7qg?spm_id_from=333.999.0.0
+视频：https://www.bilibili.com/video/BV163411w7qg?spm_id_from=333.999.0.0
 
 代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB
 
 
 #### NLP模型复现之word2vec：
-https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0
+视频：https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0
 
 代码：https://github.com/shouxieai/word_2_vec
 
 
 #### NLP模型复现之HMM：
-https://www.bilibili.com/video/BV1aP4y147gA?spm_id_from=333.999.0.0
+视频：https://www.bilibili.com/video/BV1aP4y147gA?spm_id_from=333.999.0.0
 
 代码：https://github.com/shouxieai/nlp-hmm-word-cut
 
 
 #### Seq2Seq 机器翻译：
-https://www.bilibili.com/video/BV1hf4y1u7ez?spm_id_from=333.999.0.0
+视频：https://www.bilibili.com/video/BV1hf4y1u7ez?spm_id_from=333.999.0.0
 
 代码：https://github.com/shouxieai/seq2seq_translation
 
 
 #### NLP LSTM模型古诗生成：
-https://www.bilibili.com/video/BV1sM4y1N7ov?spm_id_from=333.999.0.0
+视频：https://www.bilibili.com/video/BV1sM4y1N7ov?spm_id_from=333.999.0.0
 
 代码：https://github.com/shouxieai/LSTM_poetry_generate
 
 
 #### 百度AI NLP功能快速上手：
-https://www.bilibili.com/video/BV15o4y1Q7wP?spm_id_from=333.999.0.0
+视频：https://www.bilibili.com/video/BV15o4y1Q7wP?spm_id_from=333.999.0.0
 代码：https://github.com/shouxieai/BaiduAI_SR_sent
 
 
