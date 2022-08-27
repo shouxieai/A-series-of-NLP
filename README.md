@@ -3,34 +3,44 @@
 
 ## 免费系列课程
 NLP基础及深度学习基础，谁看谁明白：NLP系列课程之基础课程,持续更新!只要会python就够了!逐行带你入门深度学习!_哔哩哔哩_bilibili
+
 代码：A-series-of-NLP/NLP_深度学习_基础课程 at main · shouxieai/A-series-of-NLP
 
 NLP文本分类系列课程：手写AI_NLP系列课程之_文本分类_哔哩哔哩_bilibili
+
 代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB
 
 NLP实体识别系列课程：手写AI系列课程: 命名实体识别任务! 持续更新! 手写代码!_哔哩哔哩_bilibili
+
 代码：A-series-of-NLP/实体识别 at main · shouxieai/A-series-of-NLP
 
 pytorch_BiLSTM 命名实体识别 ：pytorch_BiLSTM 命名实体识别 手写代码_哔哩哔哩_bilibili
+
 代码：https://github.com/shouxieai/nlp-bilstm_crf-ner
 
 NLP模型复现之TextCNN：手写AI出品: TextCNN文本分类,逐行代码复现! 可加UP免费答疑!_哔哩哔哩_bilibili
+
 代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB
 
 NLP模型复现之word2vec：word2vec 词向量!手写代码!_哔哩哔哩_bilibili
+
 代码：https://github.com/shouxieai/word_2_vec
 
 NLP模型复现之HMM：NLP-HMM隐马尔可夫+维特比分词，代码+数据+讲解_哔哩哔哩_bilibili
+
 代码：https://github.com/shouxieai/nlp-hmm-word-cut
 
 Seq2Seq 机器翻译：Seq2Seq 机器翻译, 全程手写代码_哔哩哔哩_bilibili
+
 代码：https://github.com/shouxieai/seq2seq_translation
 
 NLP LSTM模型古诗生成：NLP系列-基于LSTM生成古诗、藏头诗_哔哩哔哩_bilibili
+
 代码：https://github.com/shouxieai/LSTM_poetry_generate
 
 百度AI NLP功能快速上手：用百度NLP，做语音识别情感分析，快速开发_哔哩哔哩_bilibili
 代码：https://github.com/shouxieai/BaiduAI_SR_sent
+
 
 NLP中正则表达式应用：2022年8月27日免费直播，录播地址：https://www.bilibili.com/video/BV13T411F7bM?spm_id_from=333.999.0.0&vd_source=3dbbba63d1589615f19db07d062f03b0
 
