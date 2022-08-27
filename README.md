@@ -4,7 +4,7 @@
 ## 免费系列课程
 NLP基础及深度学习基础，谁看谁明白：https://www.bilibili.com/video/BV1j3411t7VM?spm_id_from=333.999.0.0
 
-代码：A-series-of-NLP/NLP_深度学习_基础课程 at main · shouxieai/A-series-of-NLP
+代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/NLP_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0_%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B
 
 
 NLP文本分类系列课程：手写AI_NLP系列课程之_文本分类_哔哩哔哩_bilibili
