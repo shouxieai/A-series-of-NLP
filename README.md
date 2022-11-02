@@ -71,19 +71,9 @@
 代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/2022_8_27_%E6%AD%A3%E5%88%99%E7%9B%B4%E6%92%AD%E4%BB%A3%E7%A0%81_%E8%B5%84%E6%96%99
 
 
-#### NLP全程班前11节课免费试听：
-
-课堂代码逐行手写！微信群全天候答疑！
-
-https://www.bilibili.com/video/BV1Gt4y1w7SV/?spm_id_from=333.788
-
-截至2022年11月初，全程班课程内容如下：
-
-![image](https://files.mdnice.com/user/36644/e115b36f-f85e-452a-877c-dbe837f89450.png)
-
 
 ------------------------------------
-## 付费直播（录播）课程
+## 付费直播（录播）短期系列课程
 一、基于Bert文本分类 & Bert Embedding嫁接！
 1. NLP发展现状，入门NP算法工程师需要的技能
 2. Bert模型各文件解析，Bert文本分类流程讲解
@@ -102,5 +92,14 @@ https://www.bilibili.com/video/BV1Gt4y1w7SV/?spm_id_from=333.788
 
 价格29.9  私聊微信：shouxie_ai，私聊获取课程链接及代码，答疑群永久维护
 
+ ------------------------------------
  
- 
+ ## NLP全程班系列：
+
+课堂代码逐行手写！微信群全天候答疑！前11节课免费试听~
+
+https://www.bilibili.com/video/BV1Gt4y1w7SV/?spm_id_from=333.788
+
+截至2022年11月初，全程班课程内容如下：
+
+![image](https://files.mdnice.com/user/36644/e115b36f-f85e-452a-877c-dbe837f89450.png)
