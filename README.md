@@ -17,7 +17,7 @@
 代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB
 
 
-#### NLP实体识别系列课程：
+#### NLP实体识别系列课程，更新至 Bert + LSTM + CRF：
 视频：https://www.bilibili.com/video/BV1X34y1V7VX?spm_id_from=333.999.0.0
 
 代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB
