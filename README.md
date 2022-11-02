@@ -6,9 +6,6 @@
 
 ## 免费系列课程
 
-#### NLP全程班前11节课免费试听：
-https://www.bilibili.com/video/BV1Gt4y1w7SV/?spm_id_from=333.788
-
 #### NLP基础及深度学习基础，谁看谁明白：
 视频：https://www.bilibili.com/video/BV1j3411t7VM?spm_id_from=333.999.0.0
 
@@ -72,6 +69,13 @@ https://www.bilibili.com/video/BV1Gt4y1w7SV/?spm_id_from=333.788
 录播地址：https://www.bilibili.com/video/BV13T411F7bM?spm_id_from=333.999.0.0&vd_source=3dbbba63d1589615f19db07d062f03b0
 
 代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/2022_8_27_%E6%AD%A3%E5%88%99%E7%9B%B4%E6%92%AD%E4%BB%A3%E7%A0%81_%E8%B5%84%E6%96%99
+
+
+#### NLP全程班前11节课免费试听：
+https://www.bilibili.com/video/BV1Gt4y1w7SV/?spm_id_from=333.788
+
+截至11月初，全程班课程内容如下：
+![image](https://files.mdnice.com/user/36644/7a03f284-b2a3-4c99-b25a-da5a795ee11f.jpg)
 
 
 ------------------------------------
