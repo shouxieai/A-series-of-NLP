@@ -75,7 +75,7 @@
 https://www.bilibili.com/video/BV1Gt4y1w7SV/?spm_id_from=333.788
 
 截至11月初，全程班课程内容如下：
-![image](https://files.mdnice.com/user/36644/7a03f284-b2a3-4c99-b25a-da5a795ee11f.jpg)
+![image](https://files.mdnice.com/user/36644/e115b36f-f85e-452a-877c-dbe837f89450.png)
 
 
 ------------------------------------
