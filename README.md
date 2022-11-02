@@ -72,6 +72,9 @@
 
 
 #### NLP全程班前11节课免费试听：
+
+课堂代码逐行手写！微信群全天候答疑！
+
 https://www.bilibili.com/video/BV1Gt4y1w7SV/?spm_id_from=333.788
 
 截至2022年11月初，全程班课程内容如下：
