@@ -125,7 +125,7 @@ if __name__ == "__main__":
 
 
     if do_train:
-        train_dataset = BertDataset(train_text,train_label,label_2_index,max_len,tokenizer)
+        train_dataset = BertDataset(train_text,train_label,label_2_index,max_len,tokenizer,is_test=False)
         train_dataloader = DataLoader(train_dataset,batch_size=batch_size,shuffle=False)
 
         dev_dataset = BertDataset(dev_text, dev_label, label_2_index, max_len, tokenizer)
