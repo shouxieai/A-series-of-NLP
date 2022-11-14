@@ -128,7 +128,7 @@ if __name__ == "__main__":
         train_dataset = BertDataset(train_text,train_label,label_2_index,max_len,tokenizer,is_test=False)
         train_dataloader = DataLoader(train_dataset,batch_size=batch_size,shuffle=False)
 
-        dev_dataset = BertDataset(dev_text, dev_label, label_2_index, max_len, tokenizer)
+        dev_dataset = BertDataset(dev_text, dev_label, label_2_index, max_len, tokenizer,is_test=False)
         dev_dataloader = DataLoader(dev_dataset, batch_size=batch_size, shuffle=False)
 
         model = Bert_LSTM_NerModel(lstm_hidden,len(label_2_index)).to(device)
