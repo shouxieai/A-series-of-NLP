@@ -67,7 +67,7 @@ class EncoderBlock(nn.Module):
         # ---------------------- MultiHeadAttention forward ------------------
         Q = self.W_Q(x).reshape(*x.shape[:2], self.n_heads, -1).transpose(1, 2)
         K = self.W_K(x).reshape(*x.shape[:2], self.n_heads, -1).transpose(1, 2)
-        V = self.W_K(x).reshape(*x.shape[:2], self.n_heads, -1).transpose(1, 2)
+        V = self.W_V(x).reshape(*x.shape[:2], self.n_heads, -1).transpose(1, 2)
         attn_mask_new = attn_mask.unsqueeze(1).repeat(1, self.n_heads, 1, 1)
 
         scores = Q @ K.transpose(-1, -2) / math.sqrt(self.embedding_num / self.n_heads)
