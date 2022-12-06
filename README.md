@@ -101,5 +101,5 @@
 https://www.bilibili.com/video/BV1Gt4y1w7SV/?spm_id_from=333.788
 
 截至2022年11月初，全程班课程内容如下：
-![image](https://files.mdnice.com/user/36644/e0c79b24-6488-43a1-a26d-97c55e8702a2.png)
+![image](https://user-images.githubusercontent.com/87959426/205792016-149009b9-52a8-4545-8fcd-141b61b12467.png)
 微信：shouxie_ai，私聊获取全部课程大纲，学生价低至299！超长课时，细到极致，不怕你听不懂！
