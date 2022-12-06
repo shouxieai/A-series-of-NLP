@@ -101,6 +101,9 @@
 
 https://www.bilibili.com/video/BV1Gt4y1w7SV/?spm_id_from=333.788
 
+https://www.bilibili.com/video/BV1BP4y1Q7Lg/
+代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/Transformer%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB
+
 
 截至2022年11月，全程班课程内容如下：
 ![image](https://user-images.githubusercontent.com/87959426/205792016-149009b9-52a8-4545-8fcd-141b61b12467.png)
