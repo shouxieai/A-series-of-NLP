@@ -99,8 +99,10 @@
 
 课堂代码逐行手写！微信群全天候答疑！前11节课、第48节课transformer逐行复现 免费试听~
 
+前11节课：<br>
 https://www.bilibili.com/video/BV1Gt4y1w7SV/?spm_id_from=333.788
 
+第48节 transformer逐行复现： <br>
 https://www.bilibili.com/video/BV1BP4y1Q7Lg/ <br>
 代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/Transformer%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB
 
