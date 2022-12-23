@@ -107,8 +107,8 @@ https://www.bilibili.com/video/BV1BP4y1Q7Lg/ <br>
 代码：https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/Transformer%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB
 
 
-截至2022年12月初，全程班课程内容如下：
-![image](https://user-images.githubusercontent.com/87959426/206102680-e3881a10-fd4e-4bbc-bf30-c0677a83be91.png)
+截至2022年12月底，全程班课程内容如下：
+![image](https://user-images.githubusercontent.com/87959426/209346323-a0cd2cf0-ef82-421b-b3f5-d70fe472fb85.png)
 微信：shouxie_ai，私聊获取全部课程大纲，学生价低至299！超长课时，细到极致，不怕你听不懂！
 
 
