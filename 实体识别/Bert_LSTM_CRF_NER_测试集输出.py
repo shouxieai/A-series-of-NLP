@@ -115,8 +115,8 @@ if __name__ == "__main__":
     max_len = 30
     lr = 0.0005
     lstm_hidden = 128
-    do_train = False
-    do_test = False
+    do_train = True
+    do_test = True
     do_input = True
 
     device = "cuda:0" if torch.cuda.is_available() else "cpu"
