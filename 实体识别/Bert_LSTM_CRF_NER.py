@@ -159,10 +159,3 @@ if __name__ == "__main__":
 
         f1_score = seq_f1_score(all_tag,all_pre)
         print(f"f1:{f1_score}")
-
-
-
-
-
-
-
