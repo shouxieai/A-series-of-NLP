@@ -62,12 +62,42 @@
 
 ## word2vec 模型复现
 
-视频：[word2vec 模型复现 视频](https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0)
+**视频**：[word2vec 模型复现 视频](https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0)
 
-视频：[word2vec 模型复现 代码](https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0)
+**代码：**[word2vec 模型复现 代码](https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0)
 
 #### TextCNN模型复现 （文本分类任务）
 
-视频：[TextCNN模型复现 （文本分类任务）视频](https://www.bilibili.com/video/BV163411w7qg?spm_id_from=333.999.0.0)
+**视频**：[TextCNN模型复现 （文本分类任务）视频](https://www.bilibili.com/video/BV163411w7qg?spm_id_from=333.999.0.0)
 
-代码：[TextCNN模型复现 （文本分类任务）代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
+**代码：**[TextCNN模型复现 （文本分类任务）代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
+
+## 隐马尔可夫模型（HMM）复现
+
+**视频：**[隐马尔可夫模型（HMM）复现 视频](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
+
+**代码：**[隐马尔可夫模型（HMM）复现 代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
+
+----
+
+----
+
+# <mark>文本生成</mark>
+
+## 基于LSTM的古诗生成
+
+**视频：**[基于LSTM的古诗生成 视频](https://www.bilibili.com/video/BV1sM4y1N7ov?spm_id_from=333.999.0.0)
+
+**代码：**[基于LSTM的古诗生成 代码](https://github.com/shouxieai/LSTM_poetry_generate)
+
+------
+
+-----
+
+# <mark>机器翻译</mark>
+
+## 基于LSTM的古诗生成
+
+**视频：**[基于LSTM的古诗生成](https://www.bilibili.com/video/BV1hf4y1u7ez?spm_id_from=333.999.0.0)
+
+**代码：**[基于LSTM的古诗生成](https://github.com/shouxieai/seq2seq_translation)
