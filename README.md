@@ -16,9 +16,9 @@
 
 ----
 
-### NLP基础系列
+# NLP基础系列
 
-#### NLP基础及深度学习基础：
+## NLP基础及深度学习基础：
 
 **视频**：[NLP基础及深度学习基础 视频](https://www.bilibili.com/video/BV1j3411t7VM?spm_id_from=333.999.0.0)
 
@@ -28,9 +28,9 @@
 
 -----
 
-### NLP 文本分类
+# NLP 文本分类
 
-#### 文本分类从0学起系列
+## 文本分类从0学起系列
 
 **视频**：[文本分类从0学起系列 视频](https://www.bilibili.com/video/BV1844y1V7sM?p=1&vd_source=3dbbba63d1589615f19db07d062f03b0)
 
@@ -47,8 +47,6 @@
 **视频**： [实体识别系列课程（连载至：Bert + LSTM + CRF）视频](https://www.bilibili.com/video/BV1X34y1V7VX?spm_id_from=333.999.0.0)
 
 **代码：**[实体识别系列课程（连载至：Bert + LSTM + CRF）代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB)
-
-
 
 #### pytorch_BiLSTM 命名实体识别
 
@@ -67,8 +65,6 @@
 视频：[word2vec 模型复现 视频](https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0)
 
 视频：[word2vec 模型复现 代码](https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0)
-
-
 
 #### TextCNN模型复现 （文本分类任务）
 
