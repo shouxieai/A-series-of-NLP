@@ -1,12 +1,16 @@
-##### 手写AI 官方网站：  [手写AI 官方网站]([https://www.shouxieai.com](https://www.shouxieai.com))
+##### 手写AI 官方网站：  [手写AI官方网站](https://www.shouxieai.com)
 
-##### NLP 所有课程： https://github.com/shouxieai/A-series-of-NLP
+##### NLP 所有课程： [NLP 所有课程](https://github.com/shouxieai/A-series-of-NLP)
 
-##### CV 所有课程： https://github.com/shouxieai/A-series-of-CV、
+##### CV 所有课程：[CV 所有课程](https://github.com/shouxieai/A-series-of-CV)
 
-##### 手写AI B站： https://space.bilibili.com/1413433465?spm_id_from=333.1007.0.0
+##### 手写AI B站： [手写AI B站](https://space.bilibili.com/1413433465?spm_id_from=333.1007.0.0)
 
-##### 添加微信：shouxie_ai，入群讨论+答疑！ 私聊可免费答疑，还会有项目指导、模型复现等干货直播！
+##### 添加微信：shouxie_ai
+
+
+
+##### 入群讨论+答疑！ 私聊可免费答疑，还会有项目指导、模型复现等干货直播！
 
 ----
 
