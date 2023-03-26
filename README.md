@@ -58,9 +58,9 @@
 
 ------
 
-### <mark>NLP 经典模型复现</mark>
+## <mark>NLP 经典模型复现</mark>
 
-#### word2vec 模型复现
+### word2vec 模型复现
 
 **视频**：[word2vec 模型复现 视频](https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0)
 
@@ -82,9 +82,9 @@
 
 ----
 
-# <mark>文本生成</mark>
+## <mark>文本生成</mark>
 
-## 基于LSTM的古诗生成
+### 基于LSTM的古诗生成
 
 **视频：**[基于LSTM的古诗生成 视频](https://www.bilibili.com/video/BV1sM4y1N7ov?spm_id_from=333.999.0.0)
 
@@ -129,9 +129,7 @@
 ## Bert 模型逐行复现
 
 - **Bert 编码机制** 逐行复现:
-  词语编码、
-  位置编码
-  片段编码
+  词语编码、<br>位置编码、<br>片段编码  <br>
 - **Bert 模型主体** 逐行复现：
   多头自注意力机制、
   Add & Norm、
