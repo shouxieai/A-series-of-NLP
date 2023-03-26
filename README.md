@@ -6,11 +6,9 @@
 
 ##### 手写AI B站： [手写AI B站](https://space.bilibili.com/1413433465?spm_id_from=333.1007.0.0)
 
-##### 添加微信：shouxie_ai
-
 <img title="" src="https://user-images.githubusercontent.com/87959426/227755091-40626d34-febc-437c-b09c-612ac1f0435e.jpg" alt="手写AI微信" width="242" data-align="center">
 
-# 
+##### 添加微信：shouxie_ai
 
 ##### 入群讨论+答疑！ 私聊可免费答疑，还会有项目指导、模型复现等干货直播！
 
