@@ -58,9 +58,9 @@
 
 ------
 
-## <mark>NLP 经典模型复现</mark>
+### <mark>NLP 经典模型复现</mark>
 
-### word2vec 模型复现
+#### word2vec 模型复现
 
 **视频**：[word2vec 模型复现 视频](https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0)
 
