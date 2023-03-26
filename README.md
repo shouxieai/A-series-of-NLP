@@ -16,7 +16,7 @@
 
 ----
 
-# NLP基础系列
+# <mark>NLP基础系列</mark>
 
 ## NLP基础及深度学习基础：
 
@@ -28,7 +28,7 @@
 
 -----
 
-# NLP 文本分类
+# <mark>NLP 文本分类</mark>
 
 ## 文本分类从0学起系列
 
@@ -40,9 +40,9 @@
 
 -----
 
-### NLP 实体识别Ner
+# <mark>NLP 实体识别Ner</mark>
 
-#### 实体识别系列课程（连载至：Bert + LSTM + CRF）
+## 实体识别系列课程（连载至：Bert + LSTM + CRF）
 
 **视频**： [实体识别系列课程（连载至：Bert + LSTM + CRF）视频](https://www.bilibili.com/video/BV1X34y1V7VX?spm_id_from=333.999.0.0)
 
@@ -58,9 +58,9 @@
 
 ------
 
-### NLP 经典模型复现
+# <mark>NLP 经典模型复现</mark>
 
-#### word2vec 模型复现
+## word2vec 模型复现
 
 视频：[word2vec 模型复现 视频](https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0)
 
