@@ -6,6 +6,8 @@
 
 ##### 手写AI B站： [手写AI B站](https://space.bilibili.com/1413433465?spm_id_from=333.1007.0.0)
 
+![手写AI微信](https://user-images.githubusercontent.com/87959426/227755091-40626d34-febc-437c-b09c-612ac1f0435e.jpg)
+
 ##### 添加微信：shouxie_ai
 
 
