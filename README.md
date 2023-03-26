@@ -58,9 +58,9 @@
 
 ------
 
-# <mark>NLP 经典模型复现</mark>
+## <mark>NLP 经典模型复现</mark>
 
-## word2vec 模型复现
+### word2vec 模型复现
 
 **视频**：[word2vec 模型复现 视频](https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0)
 
@@ -72,7 +72,7 @@
 
 **代码：**[TextCNN模型复现 （文本分类任务）代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
 
-## 隐马尔可夫模型（HMM）复现
+## 隐马尔可夫模型（HMM）复现 (分词任务)
 
 **视频：**[隐马尔可夫模型（HMM）复现 视频](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
 
@@ -96,8 +96,61 @@
 
 # <mark>机器翻译</mark>
 
-## 基于LSTM的古诗生成
+## 基于Seq2Seq 机器翻译
 
-**视频：**[基于LSTM的古诗生成](https://www.bilibili.com/video/BV1hf4y1u7ez?spm_id_from=333.999.0.0)
+**视频：**[基于Seq2Seq 机器翻译 视频](https://www.bilibili.com/video/BV1hf4y1u7ez?spm_id_from=333.999.0.0)
 
-**代码：**[基于LSTM的古诗生成](https://github.com/shouxieai/seq2seq_translation)
+**代码：**[基于Seq2Seq 机器翻译 代码](https://github.com/shouxieai/seq2seq_translation)
+
+-----
+
+-----
+
+# <mark>精品付费课程</mark>
+
+## 基于Bert文本分类 & Bert Embedding嫁接
+
+- NLP发展现状，入门NP算法工程师需要的技能
+- Bert模型各文件解析，Bert文本分类流程讲解
+- 基于Hugging-face Bert文本分类代码逐行手写
+- 将Bert中的预训练Embedding嫁接至其他模型，准确率提升7%
+
+价格**29.9**， 私聊微信：shouxie_ai，获取课程链接及代码，答疑群永久维护
+
+## 基于RNN+Bert的实体识别及文本分类联合任务
+
+- 简易爬虫：爬取中文人名、武侠小说
+- 数据准备：数据标注策略、训练策略及数据增强手段
+- 模型复现：使用pytorch逐行复现RNN循环神经网络
+- 模型拼接：多任务与多模型拆解，逐行手写代码，手把手完成任务
+
+价格29.9 私聊微信：shouxie_ai，私聊获取课程链接及代码，答疑群永久维护
+
+## Bert 模型逐行复现
+
+- **Bert 编码机制** 逐行复现:
+  词语编码、
+  位置编码
+  片段编码
+- **Bert 模型主体** 逐行复现：
+  多头自注意力机制、
+  Add & Norm、
+  Feed & Forward
+- **BERT 两大任务** 逐行浮现:
+  单词掩码策略
+  相邻句预测
+- 数据集制作
+  LOSS设计、
+  模型训练
+
+学生价格149，非学生价格：199 私聊微信：shouxie_ai，私聊获取课程链接及代码，答疑群永久维护
+
+----
+
+-----
+
+# NLP全程班系列 （更新至第二期）
+
+第一期试听链接：
+
+第二期试听链接
