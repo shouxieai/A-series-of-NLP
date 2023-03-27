@@ -134,7 +134,6 @@
 - **数据集制作** 逐行复现： <br>LOSS设计、<br>模型训练
 
 学生价格149，非学生价格：199 私聊微信：shouxie_ai，私聊获取课程链接及代码，答疑群永久维护
-![b428c08e430bdb3b3959af342222837d](https://user-images.githubusercontent.com/87959426/227982051-ea209585-111c-4ecf-99e9-8710b22ef5c4.jpg)
 
 ----
 
