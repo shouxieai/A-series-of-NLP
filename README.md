@@ -144,3 +144,5 @@
 第一期试听链接：[第一期全程班试听链接](https://www.bilibili.com/video/BV1Gt4y1w7SV/)
 
 第一期录播课程详情：
+![0d169efa99ec65c78f0b2ad27c912668](https://user-images.githubusercontent.com/87959426/229328818-de2b931a-52cd-44b5-90e8-c7182885f664.jpg)
+
