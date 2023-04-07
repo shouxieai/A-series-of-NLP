@@ -8,6 +8,9 @@
 
 <img title="" src="https://user-images.githubusercontent.com/87959426/227755091-40626d34-febc-437c-b09c-612ac1f0435e.jpg" alt="手写AI微信" width="242" data-align="center">
 
+![246e9f86aed305e586188751ca5a41d](https://user-images.githubusercontent.com/87959426/230550414-4fbb717b-ad30-44b2-8e0e-649e83720047.jpg)
+
+
 ##### 添加微信：shouxie_ai
 
 ##### 入群讨论+答疑！ 私聊可免费答疑，还会有项目指导、模型复现等干货直播！
