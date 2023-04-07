@@ -66,7 +66,7 @@
 
 **🎓代码：**[word2vec 模型复现 代码](https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0)
 
-#### ✨TextCNN模型复现 （文本分类任务）
+### ✨TextCNN模型复现 （文本分类任务）
 
 **🚗视频**：[TextCNN模型复现 （文本分类任务）视频](https://www.bilibili.com/video/BV163411w7qg?spm_id_from=333.999.0.0)
 
