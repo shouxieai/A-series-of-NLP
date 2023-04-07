@@ -113,9 +113,9 @@
 30%免费试听链接：[关系抽取系列课程免费试听！](https://space.bilibili.com/1413433465/channel/collectiondetail?sid=58009)
 
 - **前景提要**
-  关系抽取课程介绍<br>
-  paddle通用关系抽取工具演示<br>
-  modelscope关系抽取工具演示<br>
+   关系抽取课程介绍<br>
+   paddle通用关系抽取工具演示<br>
+   modelscope关系抽取工具演示<br>
 
 - **联合关系抽取思路1 (布丁原创)**
   基于Ner任务的联合关系抽取思路讲解<br>
@@ -151,10 +151,10 @@ B站免费体验30%章节!<br>解细致入微，看完即学懂<br>手写AI布�
 - **基于 ptuning 的文本分类逐行手写复现**
   离散模板与连续模板<br>
   基于软模板的 Prompt 设计<br>
-  Prompt 中的loss 设计
-  添加词典外的特殊 Token
-  Embedding 层融合
-  模型设计与复现
+  Prompt 中的loss 设计<br>
+  添加词典外的特殊 Token<br>
+  Embedding 层融合<br>
+  模型设计与复现<br>
   loss 任务堆叠
 
 布丁老师在线激情讲<br>
