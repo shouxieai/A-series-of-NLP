@@ -72,7 +72,7 @@
 
 **代码：**[TextCNN模型复现 （文本分类任务）代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
 
-## 隐马尔可夫模型（HMM）复现 (分词任务)
+### 隐马尔可夫模型（HMM）复现 (分词任务)
 
 **视频：**[隐马尔可夫模型（HMM）复现 视频](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
 
@@ -118,15 +118,32 @@
 
 - Prompt 模板设计
 
-- 基于Prompt的文本分类逐行手写复现
+- **基于Prompt的文本分类逐行手写复现**
   Prompt 格式的数据准备及读取
   预训练模型构建
   Prompt 中的loss 设计
   基于 Prompt 准确率计算
-  
-  
 
+- **基于 ptuning 的文本分类逐行手写复现**
+  离散模板与连续模板
+  基于软模板的 Prompt 设计
+  Prompt 中的loss 设计
+  添加词典外的特殊 Token
+  Embedding 层融合
+  模型设计与复现
+  loss 任务堆叠
 
+布丁老师在线激情讲
+解细致入微，看完即学懂
+全程手写代码，拒绝读代码
+全程手绘模型，拒绝念 ppt
+动态添加课时，讲完为止!
+微信群聊 365*24 小时在线答疑
+直播+录播，互动+复习两不误
+
+学生价格**119**元 非学生价: 149元
+
+---
 
 ## 基于知识图谱的医疗机器
 
