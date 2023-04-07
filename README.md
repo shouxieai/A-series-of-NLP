@@ -113,24 +113,24 @@
 30%免费试听链接：[关系抽取系列课程免费试听！](https://space.bilibili.com/1413433465/channel/collectiondetail?sid=58009)
 
 - **前景提要**
-  关系抽取课程介绍
-  paddle通用关系抽取工具演示
-  modelscope关系抽取工具演示
+  关系抽取课程介绍<br>
+  paddle通用关系抽取工具演示<br>
+  modelscope关系抽取工具演示<br>
 
 - **联合关系抽取思路1 (布丁原创)**
-  基于Ner任务的联合关系抽取思路讲解
+  基于Ner任务的联合关系抽取思路讲解<br>
   基于Ner任务的联合关系抽取代码逐行复现(基于Bert模型)
 
 - **联合关系抽取思路2 (布丁原创)**
-  基于联合任务的关系抽取思路讲解 （包含pipeline方式）
+  基于联合任务的关系抽取思路讲解 （包含pipeline方式）<br>
   基于联合任务的联合关系抽取代码逐行复现 （基于Bert-BiLSTM模型）
 
 - **经典模型CasRel 逐行复现**
-  数据格式与标签格式讲解
-  数据预处理操作
-  模型结构及训练
-  loss设计
-  准确率、F1计算
+  数据格式与标签格式讲解<br>
+  数据预处理操作<br>
+  模型结构及训练<br>
+  loss设计<br>
+  准确率、F1计算<br>
   Predict预测
 
 B站免费体验30%章节!<br>解细致入微，看完即学懂<br>手写AI布丁老师激情讲解<br>含布丁老师多种原创思路<br>多角度、全方位剖析关系抽取任务<br>全程手写代码，拒绝读代码<br>全程手绘模型，拒绝念 ppt<br>微信群聊 365*24 小时在线答疑<br>
@@ -138,22 +138,19 @@ B站免费体验30%章节!<br>解细致入微，看完即学懂<br>手写AI布�
 ## NLP大热门！prompt 提示学习复现！
 
 - 用通俗易懂的语言解释何为 Prompt
-
 - 基于 Modelscope、Paddle Prompt 模型演示
-
 - 基于 Roberta 掩码语言模型构建
-
 - Prompt 模板设计
 
 - **基于Prompt的文本分类逐行手写复现**
-  Prompt 格式的数据准备及读取
-  预训练模型构建
-  Prompt 中的loss 设计
+  Prompt 格式的数据准备及读取<br>
+  预训练模型构建<br>
+  Prompt 中的loss 设计<br>
   基于 Prompt 准确率计算
 
 - **基于 ptuning 的文本分类逐行手写复现**
-  离散模板与连续模板
-  基于软模板的 Prompt 设计
+  离散模板与连续模板<br>
+  基于软模板的 Prompt 设计<br>
   Prompt 中的loss 设计
   添加词典外的特殊 Token
   Embedding 层融合
