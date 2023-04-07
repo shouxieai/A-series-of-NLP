@@ -16,101 +16,101 @@
 
 ----
 
-# <mark>NLP基础系列</mark>
+# 🚀<mark>NLP基础系列</mark>
 
-## NLP基础及深度学习基础：
+## ✨NLP基础及深度学习基础：
 
-**视频**：[NLP基础及深度学习基础 视频](https://www.bilibili.com/video/BV1j3411t7VM?spm_id_from=333.999.0.0)
+**🚗视频**：[NLP基础及深度学习基础 视频](https://www.bilibili.com/video/BV1j3411t7VM?spm_id_from=333.999.0.0)
 
-**代码**：[NLP基础及深度学习基础 代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/NLP_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0_%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B)
-
-----
-
------
-
-# <mark>NLP 文本分类</mark>
-
-## 文本分类从0学起系列
-
-**视频**：[文本分类从0学起系列 视频](https://www.bilibili.com/video/BV1844y1V7sM?p=1&vd_source=3dbbba63d1589615f19db07d062f03b0)
-
-**代码：**[文本分类从0学起系列 代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
+**🎓代码**：[NLP基础及深度学习基础 代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/NLP_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0_%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B)
 
 ----
 
 -----
 
-# <mark>NLP 实体识别Ner</mark>
+# 🚀<mark>NLP 文本分类</mark>
 
-## 实体识别系列课程（连载至：Bert + LSTM + CRF）
+## ✨文本分类从0学起系列
 
-**视频**： [实体识别系列课程（连载至：Bert + LSTM + CRF）视频](https://www.bilibili.com/video/BV1X34y1V7VX?spm_id_from=333.999.0.0)
+**🚗视频**：[文本分类从0学起系列 视频](https://www.bilibili.com/video/BV1844y1V7sM?p=1&vd_source=3dbbba63d1589615f19db07d062f03b0)
 
-**代码：**[实体识别系列课程（连载至：Bert + LSTM + CRF）代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB)
+**🎓代码：**[文本分类从0学起系列 代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
 
-#### pytorch_BiLSTM 命名实体识别
+----
 
-**视频**：[pytorch_BiLSTM 命名实体识别 视频](https://www.bilibili.com/video/BV1h341187RA?spm_id_from=333.999.0.0)
+-----
 
-**代码：**[pytorch_BiLSTM 命名实体识别 代码](https://github.com/shouxieai/nlp-bilstm_crf-ner)
+# <mark>🚀NLP 实体识别Ner</mark>
+
+## ✨实体识别系列课程（连载至：Bert + LSTM + CRF）
+
+**🚗视频**： [实体识别系列课程（连载至：Bert + LSTM + CRF）视频](https://www.bilibili.com/video/BV1X34y1V7VX?spm_id_from=333.999.0.0)
+
+**🎓代码：**[实体识别系列课程（连载至：Bert + LSTM + CRF）代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB)
+
+#### ✨pytorch_BiLSTM 命名实体识别
+
+**🚗视频**：[pytorch_BiLSTM 命名实体识别 视频](https://www.bilibili.com/video/BV1h341187RA?spm_id_from=333.999.0.0)
+
+**🎓代码：**[pytorch_BiLSTM 命名实体识别 代码](https://github.com/shouxieai/nlp-bilstm_crf-ner)
 
 -----
 
 ------
 
-## <mark>NLP 经典模型复现</mark>
+## <mark>🚀NLP 经典模型复现</mark>
 
-### word2vec 模型复现
+### ✨word2vec 模型复现
 
-**视频**：[word2vec 模型复现 视频](https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0)
+**🚗视频**：[word2vec 模型复现 视频](https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0)
 
-**代码：**[word2vec 模型复现 代码](https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0)
+**🎓代码：**[word2vec 模型复现 代码](https://www.bilibili.com/video/BV1VP4y1s7eS?spm_id_from=333.999.0.0)
 
-#### TextCNN模型复现 （文本分类任务）
+#### ✨TextCNN模型复现 （文本分类任务）
 
-**视频**：[TextCNN模型复现 （文本分类任务）视频](https://www.bilibili.com/video/BV163411w7qg?spm_id_from=333.999.0.0)
+**🚗视频**：[TextCNN模型复现 （文本分类任务）视频](https://www.bilibili.com/video/BV163411w7qg?spm_id_from=333.999.0.0)
 
-**代码：**[TextCNN模型复现 （文本分类任务）代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
+**🎓代码：**[TextCNN模型复现 （文本分类任务）代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
 
-### 隐马尔可夫模型（HMM）复现 (分词任务)
+### ✨隐马尔可夫模型（HMM）复现 (分词任务)
 
-**视频：**[隐马尔可夫模型（HMM）复现 视频](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
+**🚗视频：**[隐马尔可夫模型（HMM）复现 视频](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
 
-**代码：**[隐马尔可夫模型（HMM）复现 代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
-
-----
+**🎓代码：**[隐马尔可夫模型（HMM）复现 代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
 
 ----
 
-## <mark>文本生成</mark>
+----
 
-### 基于LSTM的古诗生成
+## <mark>🚀文本生成</mark>
 
-**视频：**[基于LSTM的古诗生成 视频](https://www.bilibili.com/video/BV1sM4y1N7ov?spm_id_from=333.999.0.0)
+### ✨基于LSTM的古诗生成
 
-**代码：**[基于LSTM的古诗生成 代码](https://github.com/shouxieai/LSTM_poetry_generate)
+**🚗视频：**[基于LSTM的古诗生成 视频](https://www.bilibili.com/video/BV1sM4y1N7ov?spm_id_from=333.999.0.0)
+
+**🎓代码：**[基于LSTM的古诗生成 代码](https://github.com/shouxieai/LSTM_poetry_generate)
 
 ------
 
 -----
 
-# <mark>机器翻译</mark>
+# <mark>🚀机器翻译</mark>
 
-## 基于Seq2Seq 机器翻译
+## ✨基于Seq2Seq 机器翻译
 
-**视频：**[基于Seq2Seq 机器翻译 视频](https://www.bilibili.com/video/BV1hf4y1u7ez?spm_id_from=333.999.0.0)
+**🚗视频：**[基于Seq2Seq 机器翻译 视频](https://www.bilibili.com/video/BV1hf4y1u7ez?spm_id_from=333.999.0.0)
 
-**代码：**[基于Seq2Seq 机器翻译 代码](https://github.com/shouxieai/seq2seq_translation)
-
------
+**🎓代码：**[基于Seq2Seq 机器翻译 代码](https://github.com/shouxieai/seq2seq_translation)
 
 -----
 
-# <mark>精品付费课程</mark>
+-----
 
-## 关系抽取系列课程！
+# <mark>🚀精品付费课程</mark>
 
-30%免费试听链接：[关系抽取系列课程免费试听！](https://space.bilibili.com/1413433465/channel/collectiondetail?sid=58009)
+## ✨关系抽取系列课程！
+
+🚗 30%免费试听链接：[关系抽取系列课程免费试听！](https://space.bilibili.com/1413433465/channel/collectiondetail?sid=58009)
 
 - **前景提要**<br>
    关系抽取课程介绍<br>
@@ -140,9 +140,9 @@ B站免费体验30%章节!<br>解细致入微，看完即学懂<br>手写AI布�
 99.9(非学生价格)<br>
 免费(知识图谱、第二期NLP高级班学生)
 
-## NLP大热门！prompt 提示学习逐行复现！
+## ✨NLP大热门！prompt 提示学习逐行复现！
 
-试听链接: [prompt 提示学习试听](https://www.bilibili.com/video/BV1dN411c7SH/)
+🚗 试听链接: [prompt 提示学习试听](https://www.bilibili.com/video/BV1dN411c7SH/)
 
 - 用通俗易懂的语言解释何为 Prompt
 
@@ -179,9 +179,9 @@ B站免费体验30%章节!<br>解细致入微，看完即学懂<br>手写AI布�
 
 ---
 
-## 基于知识图谱的医疗问答机器人
+## ✨基于知识图谱的医疗问答机器人
 
-试听链接: [基于知识图谱的医疗问答机器人试听](https://www.bilibili.com/video/BV1EY411B7GY/?spm_id_from=333.999.0.0)
+🚗 试听链接: [基于知识图谱的医疗问答机器人试听](https://www.bilibili.com/video/BV1EY411B7GY/?spm_id_from=333.999.0.0)
 
 看完即可从0构建属于自己的知识图谱！
 
@@ -219,7 +219,7 @@ B站免费体验30%章节!<br>解细致入微，看完即学懂<br>手写AI布�
 
 ----
 
-## Bert 模型逐行复现
+## ✨Bert 模型逐行复现
 
 - **Bert 编码机制** 逐行复现:<br>词语编码、<br>位置编码、<br>片段编码<br>
 - **Bert 模型主体** 逐行复现：<br>多头自注意力机制、<br>Add & Norm、<br>Feed & Forward
@@ -230,7 +230,7 @@ B站免费体验30%章节!<br>解细致入微，看完即学懂<br>手写AI布�
 
 ----
 
-## 基于Bert文本分类 & Bert Embedding嫁接
+## ✨基于Bert文本分类 & Bert Embedding嫁接
 
 - NLP发展现状，入门NP算法工程师需要的技能
 - Bert模型各文件解析，Bert文本分类流程讲解
@@ -254,9 +254,9 @@ B站免费体验30%章节!<br>解细致入微，看完即学懂<br>手写AI布�
 
 -----
 
-# NLP全程班系列 （更新至第二期）
+# 🚀NLP全程班系列 （更新至第二期）
 
-第一期试听链接：[第一期全程班试听链接](https://www.bilibili.com/video/BV1Gt4y1w7SV/)
+🚗 第一期试听链接：[第一期全程班试听链接](https://www.bilibili.com/video/BV1Gt4y1w7SV/)
 
 第一期录播课程详情：
 ![0d169efa99ec65c78f0b2ad27c912668](https://user-images.githubusercontent.com/87959426/229328818-de2b931a-52cd-44b5-90e8-c7182885f664.jpg)
