@@ -140,11 +140,16 @@ B站免费体验30%章节!<br>解细致入微，看完即学懂<br>手写AI布�
 99.9(非学生价格)<br>
 免费(知识图谱、第二期NLP高级班学生)
 
-## NLP大热门！prompt 提示学习复现！
+## NLP大热门！prompt 提示学习逐行复现！
+
+试听链接: [prompt 提示学习试听](https://www.bilibili.com/video/BV1dN411c7SH/)
 
 - 用通俗易懂的语言解释何为 Prompt
+
 - 基于 Modelscope、Paddle Prompt 模型演示
+
 - 基于 Roberta 掩码语言模型构建
+
 - Prompt 模板设计
 
 - **基于Prompt的文本分类逐行手写复现**
@@ -174,7 +179,9 @@ B站免费体验30%章节!<br>解细致入微，看完即学懂<br>手写AI布�
 
 ---
 
-## 基于知识图谱的医疗机器
+## 基于知识图谱的医疗问答机器人
+
+试听链接: [基于知识图谱的医疗问答机器人试听](https://www.bilibili.com/video/BV1EY411B7GY/?spm_id_from=333.999.0.0)
 
 看完即可从0构建属于自己的知识图谱！
 
