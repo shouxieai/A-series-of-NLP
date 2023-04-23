@@ -108,6 +108,55 @@
 
 # <mark>🚀精品付费课程</mark>
 
+## ✨GPT文本生成系列课程
+
+🚗 30%免费试听链接：[gpt文本生成系列课程免费试听！](https://www.bilibili.com/video/BV1614y1f7Nw/)
+
+- **Mini型GPT文本生成模型逐行手写复现**  
+  多轮对话数据预处理  
+  文本生成任务讲解  
+  Transformer-Decoder逐行复现  
+  Padding Mask  
+  Look-ahead Mask  
+  贪婪搜索复现:Greedy search <br>轮盘赌搜索复现:random search
+
+- **基于GPT2LM从零训练文本生成模型**  
+  文件批量选择和处理 (15G文本)  
+  基于GPT2构建文本生成模型  
+  使用Trainer构建训练器  
+  GPT2中的Greedy Search与Beam search  
+  基于gradio 聊天界面搭建  
+
+- **基于GLM-6B 官方p-tuning v2方案**  
+  环境安装  
+  huggingface模型下载与配置  
+  自定义问答数据集构建  
+  训练指令参数配置  
+  模型部署
+
+- **基于GLM-6B与Faiss的文档级问答**  
+  文档加载与文档解析  
+  文档切分  
+  SentenceTransformer文本向量化  
+  基于Faiss的向量化构建 <br>相似向量查询  
+  自定义prompt语句  
+  模型部署
+
+B站免费体验30%章节!  
+解细致入微，看完即学懂  
+手写AI布丁老师激情讲解  
+含布丁老师多种原创思路  
+多角度、全方位剖析关系抽取任务  
+全程手写代码，拒绝读代码  
+全程手绘模型，拒绝念 ppt  
+微信群聊 365*24 小时在线答疑
+
+课程形式:录播定时更新(2023.5.15号必定更新结束!)
+
+学生价格**349**元 非学生价: 399元
+
+----
+
 ## ✨知识蒸馏系列课程~
 
 🚗 30%免费试听链接：[知识蒸馏系列课程免费试听！](https://www.bilibili.com/video/BV1gP411U71k/)
