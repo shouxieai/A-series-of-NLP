@@ -113,14 +113,29 @@
 - **基于Mnist数据集的知识蒸馏(手写复现)**  
   知识蒸馏概念与原理  
   Mnist数据集读取  
-  modelscope关系抽取工具演示  
+  Teacher-Student模型架构 <br>Student模型构建<br>KLoss设计  
+  模型学习和与训练
 
-- **联合关系抽取思路1 (布丁原创)** 基于Ner任务的联合关系抽取思路讲解  
-  基于Ner任务的联合关系抽取代码逐行复现(基于Bert模型)
+- **Bert与LSTM间的知识蒸馏 (手写复现)** <br>Teacher-Bert模型构建与训练  
+  Student-LSTM模型定义  
+  Hard-Target与Soft-Target  
+  模型推理  
+  模型大小及参数量对比  
+  准确率对比<br>推理速度对比
 
-- **联合关系抽取思路2 (布丁原创)**  
-  基于联合任务的关系抽取思路讲解 （包含pipeline方式）  
-  基于联合任务的联合关系抽取代码逐行复现 （基于Bert-BiLSTM模型）
+- **Tiny-Bert知识蒸馏(TextBrewer)**  
+  Teacher-Bert模型定义  
+  Student-TinyBert模型定义  
+  TextBrewer讲解  
+  基于TextBrewer的蒸留实现  
+  模型推理及性能对比 
+
+- **Tiny-Bert知识蒸馏(TextBrewer)**  
+  Teacher-Bert模型定义  
+  Student-TinyBert模型定义  
+  TextBrewer讲解  
+  基于TextBrewer的蒸留实现  
+  模型推理及性能对比
 
 -----
 
