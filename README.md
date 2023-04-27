@@ -46,7 +46,7 @@
 
 **🚗视频**： [实体识别系列课程（连载至：Bert + LSTM + CRF）视频](https://www.bilibili.com/video/BV1X34y1V7VX?spm_id_from=333.999.0.0)
 
-**🎓代码：**[实体识别系列课程（连载至：Bert + LSTM + CRF）代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB)
+**🎓代码：**[实体识别系列课程（连载至：Bert + LSTM + CRF）代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/NLP%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB%E7%B3%BB%E5%88%97%E8%AF%BE%E7%A8%8B)
 
 #### ✨pytorch_BiLSTM 命名实体识别
 
