@@ -74,7 +74,7 @@
 
 ### ✨隐马尔可夫模型（HMM）复现 (分词任务)
 
-**🚗视频：**[隐马尔可夫模型（HMM）复现 视频](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
+**🚗视频：**[隐马尔可夫模型（HMM）复现 视频](https://www.bilibili.com/video/BV1aP4y147gA/?spm_id_from=333.999.0.0)
 
 **🎓代码：**[隐马尔可夫模型（HMM）复现 代码](https://github.com/shouxieai/A-series-of-NLP/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/TextCNN_%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
 
